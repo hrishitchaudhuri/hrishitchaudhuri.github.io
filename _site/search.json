@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about",
+    "section": "",
+    "text": "👋 I am a grad student in computer science. I’m currently pursuing an MSCS at the Courant Institute at NYU, with an interest in compilers and programming languages, and their underlying mathematical theory. I have experience working with professors from The Institute of Mathematical Sciences and the Indian Institute of Science, as well as with the LLVM team at Qualcomm. You can find my CV here.\nIn my free time, I read a lot (and write about what I read on my blog), play chess, and spend my weekends watching Liverpool try and win the League 🔴⚪\nDrop me a mail if you’d like to say hi! 👇"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
