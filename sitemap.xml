@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hrishitchaudhuri.github.io/notes/index.html</loc>
+    <lastmod>2023-11-11T02:14:34.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hrishitchaudhuri.github.io/notes/posts/welcome/index.html</loc>
+    <lastmod>2023-11-11T02:14:33.869Z</lastmod>
+  </url>
+  <url>
     <loc>https://hrishitchaudhuri.github.io/index.html</loc>
-    <lastmod>2023-07-03T06:29:30.829Z</lastmod>
+    <lastmod>2023-11-11T02:14:33.341Z</lastmod>
   </url>
   <url>
     <loc>https://hrishitchaudhuri.github.io/about.html</loc>
-    <lastmod>2023-07-03T06:29:30.541Z</lastmod>
+    <lastmod>2023-11-11T02:14:33.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hrishitchaudhuri.github.io/notes/about.html</loc>
+    <lastmod>2023-11-11T02:14:33.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hrishitchaudhuri.github.io/notes/posts/post-with-code/index.html</loc>
+    <lastmod>2023-11-11T02:14:34.113Z</lastmod>
   </url>
 </urlset>
